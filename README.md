@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vine91/vine91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Ista's GitHub stats](https://github-readme-stats.vercel.app/api?username=vine91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/vine91)
+[![Ista's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vine91&theme=dracula&layout=compact)](https://github.com/vine91)
