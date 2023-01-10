@@ -16,23 +16,23 @@ Here are some ideas to get you started:
 * * *
 
 <p align="middle"> 
-  <img alt="Github Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=vine91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img alt="Commits" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vine91&theme=dracula&utcOffset=8" />
+  <img alt="Github Stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=vine91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img alt="Commits" height="160px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vine91&theme=dracula&utcOffset=8" />
 </p>
 
 <p align="middle"> 
-  <img alt="Trophy" height="115px" src="https://github-profile-trophy.vercel.app/?username=vine91&column=7&theme=flat" />
+  <img alt="Trophy" height="105px" src="https://github-profile-trophy.vercel.app/?username=vine91&column=7&theme=flat" />
 </p>
 
 * * *
 
 <p align="middle"> 
-  <img alt="Contributions Graph" height="217px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vine91&theme=dracula" />
+  <img alt="Contributions Graph" height="197px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vine91&theme=dracula" />
 </p>
 
 <p align="middle"> 
-  <img alt="Top Langs by Repo" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vine91&theme=dracula" />
-  <img alt="Top Langs by Commit" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vine91&theme=dracula" />
+  <img alt="Top Langs by Repo" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vine91&theme=dracula" />
+  <img alt="Top Langs by Commit" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vine91&theme=dracula" />
 </p>
 
 * * *
