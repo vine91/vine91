@@ -36,3 +36,18 @@ Here are some ideas to get you started:
 </p>
 
 * * *
+<h3 align='center'>✨ Stacks ✨</h3>
+<p align='center'>Techs in use for now</p>
+<p align='center'>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=CPlusPlus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white" />
+  
+</p>
