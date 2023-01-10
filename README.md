@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 * * *
 
 <p align="middle"> 
-  <img alt="Contributions Graph" height="197px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vine91&theme=dracula" />
+  <img alt="Contributions Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vine91&theme=dracula" />
 </p>
 
 <p align="middle"> 
-  <img alt="Top Langs by Repo" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vine91&theme=dracula" />
-  <img alt="Top Langs by Commit" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vine91&theme=dracula" />
+  <img alt="Top Langs by Repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vine91&theme=dracula" />
+  <img alt="Top Langs by Commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vine91&theme=dracula" />
 </p>
 
 * * *
